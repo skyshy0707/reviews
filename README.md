@@ -22,6 +22,9 @@ ENDPOINT: /reviews
 
 Методы: GET, POST
 
+&nbsp;
+&nbsp;
+&nbsp;
 
 Создать отзыв:
 
@@ -49,6 +52,8 @@ JSON-Response:
 
 &nbsp;
 &nbsp;
+
+***
 
 Получить отзывы по `sentiment`
 
