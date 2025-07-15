@@ -13,7 +13,7 @@ docker-compose up -d --build
 
 **Примеры запросов**
 
-\textcolor{blue}{\text{ENDPOINT}}: /reviews
+ENDPOINT: /reviews
 
 Методы: GET, POST
 
