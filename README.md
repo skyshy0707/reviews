@@ -50,8 +50,6 @@ JSON-Response:
     }
 ```
 
-&nbsp;
-
 ***
 
 Получить отзывы по `sentiment`
