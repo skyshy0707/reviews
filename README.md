@@ -51,7 +51,6 @@ JSON-Response:
 ```
 
 &nbsp;
-&nbsp;
 
 ***
 
