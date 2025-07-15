@@ -18,7 +18,7 @@ ENDPOINT: /reviews
 Методы: GET, POST
 
 
-1. Создать отзыв:
+Создать отзыв:
 
 Body: 
 
@@ -42,7 +42,10 @@ JSON-Response:
     }
 ```
 
-2. Получить отзывы по `sentiment`
+&nbsp;
+&nbsp;
+
+Получить отзывы по `sentiment`
 
 Parameters:
 
