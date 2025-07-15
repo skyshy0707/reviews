@@ -13,12 +13,12 @@ docker-compose up -d --build
 
 **Примеры запросов**
 
-/reviews
+@@ ENDPOINT: /reviews
 
 Методы: GET, POST
 
 
-Создать отзыв:
+1. Создать отзыв:
 
 Body: 
 
@@ -29,7 +29,7 @@ Body:
 }
 ```
 
-POST /rewviews
+POST /reviews
 
 JSON-Response:
 
@@ -42,7 +42,7 @@ JSON-Response:
     }
 ```
 
-Получить отзывы по `sentiment`
+2. Получить отзывы по `sentiment`
 
 Parameters:
 
@@ -53,7 +53,7 @@ Parameters:
 }
 ```
 
-GET /rewviews?sentiment=negative&sentiment=neutral
+GET /reviews?sentiment=negative&sentiment=neutral
 
 JSON-Response:
 
